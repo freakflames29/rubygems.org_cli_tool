@@ -11,6 +11,6 @@ gem install httparty
 gem install nokogiri
 gem install clipboard
 
-```ruby
+```
 
 
