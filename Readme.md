@@ -12,5 +12,5 @@ gem install nokogiri
 gem install clipboard
 
 ```
-
-
+# Screenshot
+![screenshot](https://i.imgur.com/mBxweBx.png)
