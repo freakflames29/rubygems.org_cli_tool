@@ -1,6 +1,6 @@
 # rubygems.org CLI tool
 
-This is a unofficial rubtgems.org cli tool for search and download gems
+This is an unofficial rubtgems.org cli tool for search and download gems
 
 # Gems Used
 
